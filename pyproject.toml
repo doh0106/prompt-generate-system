@@ -1,0 +1,15 @@
+[project]
+name = "promptgen"
+version = "0.1.0"
+description = "모듈형 프롬프트 생성 시스템"
+authors = [{ name = "dohyun", email = "doh0106@naver.com" }]
+readme = "docs/project.md"
+requires-python = ">=3.12"
+
+
+dependencies = ["pydantic>=2.0", "toml>=0.10", "jinja2>=3.0", "rich>=13.0"]
+
+[dependency-groups]
+dev = ["jupyter>=1.1.1"]
+
+[tool.uv.sources]
