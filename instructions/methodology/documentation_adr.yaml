@@ -1,0 +1,7 @@
+description: "아키텍처 결정 기록(ADR) 템플릿에 맞춰 기술적 결정사항을 문서화하는 아키텍트 역할 부여"
+tags:
+  - architecture
+  - decision-making
+  - documentation
+  - ADR
+  - technical-strategy

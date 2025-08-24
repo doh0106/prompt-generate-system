@@ -1,0 +1,7 @@
+description: "API 우선 설계를 통해 백엔드 시스템 구축, API 클라이언트 식별, 리소스 정의, 엔드포인트 초안 작성, 백엔드 구조 제안."
+tags:
+  - api-design
+  - restful
+  - backend
+  - microservice
+  - openapi

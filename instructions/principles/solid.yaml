@@ -1,0 +1,7 @@
+description: "객체 지향 설계 원칙인 SOLID를 설명하며, 각 원칙의 정의와 함께 예시를 제공합니다."
+tags:
+  - SOLID
+  - SRP
+  - OCP
+  - LSP
+  - DIP

@@ -1,0 +1,7 @@
+description: "Sphinx 문서 자동 생성을 위한 reStructuredText 스타일 독스트링 작성 규칙을 설명합니다."
+tags:
+  - Sphinx
+  - reStructuredText
+  - docstring
+  - documentation
+  - style guide

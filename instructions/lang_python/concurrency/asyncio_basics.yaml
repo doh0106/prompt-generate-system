@@ -1,0 +1,7 @@
+description: "파이썬 asyncio를 사용하여 비동기 프로그래밍 시 핵심 원칙과 모범 사례, 주의사항을 안내합니다."
+tags:
+  - asyncio
+  - asynchronous
+  - I/O-bound
+  - coroutine
+  - await

@@ -1,0 +1,7 @@
+description: "소프트웨어 설계 시 각 부분을 분리하여 관심사를 나누고, 결합도를 낮추고 응집도를 높이는 원칙입니다."
+tags:
+  - SoC
+  - separation of concerns
+  - layer separation
+  - single responsibility
+  - design principle

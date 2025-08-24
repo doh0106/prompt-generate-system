@@ -1,0 +1,7 @@
+description: "Pytest를 사용한 Python 테스트 코드 작성 규칙을 설명하고, 명확하고 신뢰성 높은 테스트 생성 방법을 제시합니다."
+tags:
+  - pytest
+  - testing
+  - python
+  - unit-test
+  - test-rules

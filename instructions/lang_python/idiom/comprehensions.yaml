@@ -1,0 +1,7 @@
+description: "파이썬에서 리스트, 딕셔너리, 세트를 생성하는 간결하고 효율적인 방법인 컴프리헨션 기법을 설명합니다."
+tags:
+  - comprehension
+  - list
+  - dictionary
+  - set
+  - pythonic

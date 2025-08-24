@@ -1,0 +1,7 @@
+description: "언패킹을 활용하여 시퀀스 요소들을 변수에 할당하는 방법과 규칙을 제시합니다."
+tags:
+  - unpacking
+  - sequence
+  - iterable
+  - python
+  - idiom

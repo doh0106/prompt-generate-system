@@ -1,0 +1,7 @@
+description: "Numpy 스타일의 독스트링 작성 규칙 설명. 함수의 역할, 파라미터, 반환 값, 예외, 사용 예시 등을 명확하게 작성하는 방법을 제시합니다."
+tags:
+  - docstring
+  - Numpy style
+  - documentation
+  - Python
+  - coding convention

@@ -1,0 +1,7 @@
+description: "서버리스 아키텍처는 함수 단위로 분리, 이벤트 기반 트리거, 외부 서비스 활용 등을 준수해야 합니다."
+tags:
+  - serverless
+  - FaaS
+  - architecture
+  - event-driven
+  - stateless

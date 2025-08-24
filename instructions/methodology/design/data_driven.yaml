@@ -1,0 +1,7 @@
+description: "데이터 흐름과 구조를 최우선으로 고려하여 데이터 중심 애플리케이션을 설계하는 데이터 아키텍트 역할"
+tags:
+  - data-driven
+  - architecture
+  - data-pipeline
+  - data-model
+  - system-design

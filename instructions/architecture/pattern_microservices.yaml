@@ -1,0 +1,7 @@
+description: "MSA 패턴 설계 시, 단일 책임, 독립적 배포, 분산된 데이터 관리 등 핵심 원칙 준수를 강조합니다."
+tags:
+  - microservices
+  - architecture
+  - MSA
+  - distributed-system
+  - API

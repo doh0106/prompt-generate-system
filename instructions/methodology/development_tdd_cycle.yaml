@@ -1,0 +1,7 @@
+description: "TDD 방법론에 따라 Red-Green-Refactor 사이클을 거쳐 코드 개발 과정을 설명하고, 최종 코드 제공."
+tags:
+  - TDD
+  - Red-Green-Refactor
+  - test-driven development
+  - refactoring
+  - unit-testing

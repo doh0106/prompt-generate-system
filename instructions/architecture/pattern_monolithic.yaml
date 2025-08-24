@@ -1,0 +1,7 @@
+description: "모놀리식 아키텍처를 모듈 단위로 분리하여 유지보수성과 확장성을 향상시키는 설계 방식입니다."
+tags:
+  - modular-monolith
+  - architecture
+  - modularity
+  - scalability
+  - maintainability

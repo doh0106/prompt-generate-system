@@ -1,0 +1,7 @@
+description: "`with` 문을 사용하여 자원 관리를 단순화하고 예외 발생 시에도 안전하게 자원을 해제하도록 합니다."
+tags:
+  - context-manager
+  - with-statement
+  - resource-management
+  - cleanup
+  - contextlib

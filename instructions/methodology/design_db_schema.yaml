@@ -1,0 +1,7 @@
+description: "데이터베이스 스키마를 설계하는 데이터 모델러 역할. 요구사항 분석, 테이블 구조 제안, 컬럼 정의, 관계 정의, 데이터 예시를 포함."
+tags:
+  - database
+  - schema
+  - design
+  - modeling
+  - data

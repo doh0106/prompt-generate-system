@@ -1,0 +1,7 @@
+description: "파이썬 코딩 시 보안 취약점 방지를 위한 금지 및 주의사항 안내: eval(), pickle, os.system() 등 사용 제한."
+tags:
+  - security
+  - vulnerability
+  - python
+  - prevention
+  - attack

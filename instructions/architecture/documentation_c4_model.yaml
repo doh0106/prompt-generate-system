@@ -1,0 +1,7 @@
+description: "C4 모델 기반 소프트웨어 아키텍처 설명 문서 작성 가이드라인입니다. 시스템 컨텍스트, 컨테이너, 컴포넌트, 코드 레벨로 구성됩니다."
+tags:
+  - C4-model
+  - architecture
+  - documentation
+  - system-design
+  - software-architecture

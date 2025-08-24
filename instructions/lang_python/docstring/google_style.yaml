@@ -1,0 +1,7 @@
+description: "Google 스타일의 Docstring 작성 규칙 설명. 함수, 클래스, 모듈에 대한 독스트링 구조 및 섹션 작성법을 제시합니다."
+tags:
+  - docstring
+  - google-style
+  - documentation
+  - python
+  - coding-conventions

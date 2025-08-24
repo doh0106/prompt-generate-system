@@ -1,0 +1,7 @@
+description: "RESTful API 설계 원칙 설명. 자원 중심 설계, HTTP 메서드 활용, 상태 코드, 상태 비저장, 응답 형식, HATEOAS."
+tags:
+  - RESTful API
+  - API design
+  - HTTP methods
+  - Resource-oriented
+  - HATEOAS
